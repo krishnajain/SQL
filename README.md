@@ -4,7 +4,9 @@ PIP to install "MySQL Connector"
 
 
 
-#Create Connection
+>>Create Connection
+
+
 Start by creating a connection to the database.
 
 Use the username and password from your MySQL database:
